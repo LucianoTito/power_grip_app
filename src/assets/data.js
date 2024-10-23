@@ -3,7 +3,7 @@ export const data = [
     id: 1,
     product: "Callera Cobra Pro",
     images: [
-      { id: 1, imgUrl: ".assets/images/calleraCobraPro1.jpeg" },
+      { id: 1, imgUrl: ".src/assets/images/calleraCobraPro1.jpeg" },
       { id: 2, imgUrl: "src/assets/images/calleracobrapro2.jpeg" },
       { id: 3, imgUrl: "src/assets/images/calleracobrapro3.jpeg" },
       { id: 4, imgUrl: "src/assets/images/calleracobrapro4.jpeg" },
