@@ -65,9 +65,9 @@ const CarouselProduct7 = ({ images, productName }) => {
         ))}
       </div>
       <p>
-          Las muñequeras elasticas son ideales para fortalecer la articulacion de la muñeca al realizar ejercicios de levantamiento y fuerza.
-          Es un elastico sin algodon en su composicion, lo que las hace mas finas.
-          Lo importante es que son de 40cm de largo y te permite darle mas vueltas a la muñea para lograr asi un ajuste perfecto a eleccion del atleta.
+          Las muñequeras elásticas son ideales para fortalecer la articulación de la muñeca al realizar ejercicios de levantamiento y fuerza.
+          Es un elastico sin algodón en su composición, lo que las hace mas finas.
+          Lo importante es que son de 40 cm de largo y te permite darle mas vueltas a la muñeca para lograr asi un ajuste perfecto a elección del atleta.
           </p>
           <p><strong>Precio: $10.000</strong> </p>
       {/* Botón de contacto */}

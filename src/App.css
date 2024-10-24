@@ -8,7 +8,7 @@
   padding: 2rem;
   font-family: "Roboto Mono", monospace;
   text-align: center;
-  background-color: #121212;
+  background-color: #121212 ;
   background-size: cover;
   min-height: 100vh;
   color: #fff;
@@ -18,6 +18,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+
+
 }
 
 .card {
