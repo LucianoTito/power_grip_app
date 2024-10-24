@@ -2,6 +2,13 @@
     position: relative;
     height: 100%;
   }
+
+  .arrow-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  
   
   .leftArrow,
   .rightArrow {
@@ -16,16 +23,18 @@
   }
   
   .leftArrow {
-    left: 32px;
+    left: 1%;
+    margin-top: 49%;
   }
   
   .rightArrow {
-    right: 32px;
+    right: 1%;
+    margin-top: 49%;
   }
   
   .container-images {
     width: 100%;
-    height: 300px; /* Altura fija */
+    height: 320px; /* Altura fija */
     border-radius: 8px;
     border: 1px solid #eee;
     overflow: hidden;
@@ -50,7 +59,7 @@
   
   img {
     max-width: 100%; /* Ajusta al ancho máximo */
-    max-height: 400px; /* Ajusta a la altura máxima */
+    max-height: 320px; /* Ajusta a la altura máxima */
     object-fit:cover; /* Mantiene la proporción */
   }
   

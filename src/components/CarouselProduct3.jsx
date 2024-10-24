@@ -35,8 +35,16 @@ const CarouselProduct3 = ({ images, productName }) => {
 
   return (
     <div className="slider-container">
-      <div className='leftArrow' onClick={() => scrollToImage('prev')}>&#10092;</div>
-      <div className='rightArrow' onClick={() => scrollToImage('next')}>&#10093;</div>
+       <div className='arrow-container'>
+       <div className="leftArrow" onClick={() => scrollToImage('prev')}>
+        &#10092;
+        </div>
+        <div className="rightArrow" onClick={() => scrollToImage('next')}>
+        &#10093;
+        </div>
+
+      </div>
+      
       <div className="container-images">
         <ul ref={listRef}>
           {images.map((item) => (
