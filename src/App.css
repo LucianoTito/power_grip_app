@@ -23,26 +23,36 @@
 .card {
 
   background-color: #1a1a1a; /* Fondo oscuro para las tarjetas */
-  border: 1px solid #e0fd53; /* Borde amarillo */
+  border: 1px solid #dd7774; /* Borde amarillo */
   padding: 2em;
   margin: 1em 0;
   width: 90%;
   max-width: 600px;
   border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7); /* Sombra */
+  box-shadow: 0 2px 10px  #dd7774; /* Sombra */
 }
 
 .card h2 {
-  color: #e0fd53;
+  color: #dd7774;
   margin-bottom: 1em;
+  animation: glow 1.2s ease-in-out infinite alternate;  
+}
+
+@keyframes glow{
+  from {
+    text-shadow: 0 0 10px #eccbcb;
+  }
 }
 
 .card p {
   color: #d3d3d3; /* Texto claro para descripciones */
+  font-size: large;
 }
 
 .card strong {
-  color: #e0fd53; /* Color del precio */
+  color:#dd7774; /* Color del precio */
+  font-weight:bolder;
+  font-size: x-large;
 }
 
 .container-images {

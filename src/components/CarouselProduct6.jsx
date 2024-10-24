@@ -67,7 +67,7 @@ const CarouselProduct6 = ({ images, productName }) => {
       <p>CALIDAD PREMIUM.
                 Rodilleras de 5mm reforzadas con 4 costuras y diseño de 4 piezas para lograr la mejor ergonomia y ajuste a la rodilla.
                 Material: Nepreno.</p>
-          <p><strong>Precio:</strong> $48000</p>
+          <p><strong>Precio: $48.000</strong> </p>
       {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

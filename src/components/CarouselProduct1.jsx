@@ -71,7 +71,7 @@ const CarouselProduct1 = ({ images, productName }) => {
 Sin Hebilla de metal para mayor confort.
 Mayor protección en cada muñeca.
 Misma calidad de siempre!</p>
-          <p><strong>Precio:</strong> $17.000</p>
+          <p><strong>Precio: $17.000 </strong></p>
       {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

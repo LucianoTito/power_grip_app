@@ -69,7 +69,7 @@ const CarouselProduct7 = ({ images, productName }) => {
           Es un elastico sin algodon en su composicion, lo que las hace mas finas.
           Lo importante es que son de 40cm de largo y te permite darle mas vueltas a la muñea para lograr asi un ajuste perfecto a eleccion del atleta.
           </p>
-          <p><strong>Precio:</strong> $10000</p>
+          <p><strong>Precio: $10.000</strong> </p>
       {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

@@ -72,7 +72,7 @@ const CarouselProduct2 = ({ images, productName }) => {
 Con material premium de PVC y tecnologia en sandwich (pvc / lona / pvc), logramos aumentar la resistencia al desgarro.
 Con una textura LISA y GOMOSA, Black Shield es la calleras mas completa y que mejor se adhiere a la barra. 
 LA NOVEDAD, tambien, la trae el nuevo sistema de abrojo lateral para plegar la lengueta y poder entrenar sin molestias. asegurando que no quede suelta y liberando la palma en todo momento.</p>
-          <p><strong>Precio:</strong> $60.000</p>
+          <p><strong>Precio: $60.000</strong> </p>
           {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

@@ -17,7 +17,7 @@
     transform: translate(0, -50%);
     font-size: 50px;
     font-weight: 700;
-    color: #e0fd53; /* Flechas en amarillo */
+    color: #dd7774; /* Flechas en amarillo */
     cursor: pointer;
     z-index: 10; /* Asegúrate de que las flechas estén por encima de las imágenes */
   }
@@ -78,7 +78,7 @@
   }
   
   .dot-container-item.active {
-    color: #e0fd53; /* Punto activo en amarillo */
+    color: #dd7774; /* Punto activo en amarillo */
   }
   
   .dot-container-item:hover {

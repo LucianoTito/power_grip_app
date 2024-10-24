@@ -71,7 +71,7 @@ Detalles:
 -60cm de largo
 -8cm de ancho. Con dedal elástico para una mejor colocación y ajuste.
 La muñequera es de tela militar, un tejido antidesgarro debido a que incorpora en su entramado hilos de nylon. Se utiliza para fabricar ropa de faena militar y equipamiento que requiera gran durabilidad. Por eso la calidad es PREMIUM.</p>
-          <p><strong>Precio:</strong> $8000</p>
+          <p><strong>Precio: $8.000</strong></p>
           {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

@@ -66,7 +66,7 @@ const CarouselProduct5 = ({ images, productName }) => {
       </div>
       <p>Muñequeras de toalla de 11cm de largo. Comprimen la muneca y aseguran un ajuste ideal para que no se mueva de lugar.
              Protege la mano de la transpiracion, y además se suele utilizar en crossfit y gimansia debajo de las calleras para proteger la piel.</p>
-          <p><strong>Precio:</strong> $6500</p>
+          <p><strong>Precio: $6.500</strong> </p>
       {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>
         Contactar al vendedor

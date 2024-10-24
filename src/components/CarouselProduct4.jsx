@@ -63,7 +63,7 @@ const handleContact = () => {
         </div>
         
         <p>Cinturon de fuerza, de goma 6mm e interior acolchonado. Un cinto sólido que proporciona soporte lumbar durante los levantamientos pesados. </p>
-        <p><strong>Precio:</strong> $32000</p>
+        <p><strong>Precio: $32.000</strong> </p>
 
         {/* Botón de contacto */}
       <button className="contact-button" onClick={handleContact}>

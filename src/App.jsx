@@ -52,7 +52,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>Tienda de Luciano Tito</p>
+        <p>PowerGrip Salta. Tienda de Luciano Tito</p>
         <a href="https://www.instagram.com/_lucianotice/" target="_blank" rel="noopener noreferrer">
           <FaInstagram size={25} />
         </a>
