@@ -3,10 +3,12 @@ export const data = [
     id: 1,
     product: "Callera Cobra Pro",
     images: [
-      { id: 1, imgUrl: "/images/calleraCobraPro1.jpeg" },
-      { id: 2, imgUrl: "/images/calleracobrapro2.jpeg" },
-      { id: 3, imgUrl: "/images/calleracobrapro3.jpeg" },
-      { id: 4, imgUrl: "/images/calleracobrapro4.jpeg" },
+      { id: 1, imgUrl: "/images/callera_cobrapro5.webp" },
+      { id: 3, imgUrl: "/images/callera-cobra-pro4.webp" },
+      { id: 4, imgUrl: "/images/calleraCobraPro1.jpeg" },
+      { id: 5, imgUrl: "/images/calleracobrapro2.jpeg" },
+      { id: 6, imgUrl: "/images/calleracobrapro3.jpeg" },
+      { id: 7, imgUrl: "/images/calleracobrapro4.jpeg" },
     ],
   },
   {
